@@ -1,7 +1,5 @@
 [DatetimeBanner]
-Author = ashish
-Version = 0.1
-Description = display datetime in as a banner
-
-[testing]
+author = ashish
+version = 0.1
+description = display datetime in as a banner
 
